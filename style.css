@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+
+body {
+  background-color: black;
+}
+
+h1, p {
+  color: white;
+  font-size: 20px;
+  text-shadow: 0 0 5px lightgrey;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 45px;
+}
+
+p {
+  font-family: 'Dosis', sans-serif;
+}
+
+.main {
+  max-width: 800px;
+  margin: 300px auto;
+  text-align: center;
+}
+
+p {
+  margin: 100px;
+}
